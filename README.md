@@ -3,12 +3,14 @@ Computation with NumPy and N-Dimensional Arrays
 
 In this lesson we looked at how to:
 
-Create arrays manually with np.array()
-Generate arrays using  .arange(), .random(), and .linspace()
-Analyse the shape and dimensions of a ndarray
-Slice and subset a ndarray based on its indices
-Do linear algebra like operations with scalars and matrix multiplication
-Use NumPys broadcasting to make ndarray shapes compatible
-Manipulate images in the form of ndarrays
+<ul>
+  <li>Create arrays manually with np.array()</li>
+  <li>Generate arrays using  .arange(), .random(), and .linspace()</li>
+  <li>Analyse the shape and dimensions of a ndarray</li>
+  <li>Slice and subset a ndarray based on its indices</li>
+  <li>Do linear algebra like operations with scalars and matrix multiplication</li>
+  <li>Use NumPys broadcasting to make ndarray shapes compatible</li>
+  <li>Manipulate images in the form of ndarrays</li>
+</ul>
 
-What a mathematical lessons!
+What a mathematical lesson!
